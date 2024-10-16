@@ -31,7 +31,7 @@ function writeToFile(fileName, userInput) {
 
     // write output to file
     fs.writeFile(fileName, svgString, (err) => {
-        err ? console.log(err) : console.log("Created logo.svg");
+        err ? console.log(err) : console.log("Generated logo.svg");
     });
 }
 
