@@ -1,7 +1,7 @@
 // imports
 const inquirer = require("inquirer");
 const fs = require("fs");
-const { Triangle, Square, Circle } = require("./lib/shapes");
+const { Square, Triangle, Circle } = require("./lib/shapes");
 
 // write to file 
 function writeToFile(fileName, userInput) {
@@ -42,6 +42,7 @@ function promptInput() {
         {
             type: "list",
             message: "What shape would you like to display your logo?",
+            choices: ["Square", "Triangle", "Circle"],
             name: "logoShape",
         },
 
