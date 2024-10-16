@@ -38,7 +38,7 @@ The following image shows a mock-up of the generated SVG given the following inp
 ![Walkthrough GIF](./assets/images/svg-walkthrough.gif)
 
 ## Walkthrough Video  
-![Walkthrough Video](https://drive.google.com)
+![Walkthrough Video](https://drive.google.com/file/d/1ZiL1TQBqbGi45YCDT9Zr3ZK-x0_NuEtH/view)
 
 ## Installation 
 ```
