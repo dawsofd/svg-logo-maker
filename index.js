@@ -66,7 +66,7 @@ function promptInput() {
         },
     ])
     .then((userInput) => {
-        if (userInput.text.length > 3) {
+        if (userInput.logoText.length > 3) {
             console.log("Error: logo text cannot exceed 3 characters in length");
             promptInput();
         } else {
