@@ -48,5 +48,5 @@ node index.js
 
 ## Tests
 ```
-npm test
+npx jest
 ```
