@@ -34,6 +34,12 @@ The following image shows a mock-up of the generated SVG given the following inp
 
 ![Image showing a green circle with white text that reads "SVG.".](./assets/images/10-oop-homework-demo.png)
 
+## Application Preview 
+![Walkthrough GIF](./assets/images/svg-walkthrough.gif)
+
+## Walkthrough Video  
+![Walkthrough Video](https://drive.google.com)
+
 ## Installation 
 ```
 npm init -y
